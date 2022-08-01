@@ -119,3 +119,14 @@ h1 {
     margin-bottom: 15px;
     line-height: 30px;
 }
+
+.text .nakaz {
+    text-decoration: none;
+    color:grey;
+}
+
+.text .perelik {
+    text-decoration: none;
+    color:darkturquoise;
+}
+
